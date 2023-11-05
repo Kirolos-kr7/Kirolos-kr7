@@ -4,8 +4,10 @@
   <br>
 </h1>
 <h3 align="center">
-I am an enthusiastic junior front end web developer with 1-2 years of experience developing responsive web applications. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks like React and Vue. Passionate about translating UI/UX concepts into optimized, accessible, and user-friendly websites. Eager to showcase my abilities, contribute coding skills, troubleshoot issues, and assist in launching new features and products.
+Junior Frontend Web Developer
  </h3>
+
+ <p>I'm an enthusiastic junior front end web developer with 1-2 years of experience developing responsive web applications. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks like React and Vue. Passionate about translating UI/UX concepts into optimized, accessible, and user-friendly websites. Eager to showcase my abilities, contribute coding skills, troubleshoot issues, and assist in launching new features and products.</p>
  
  <p align="center">
   <a href="https://kirolos-rafaat.vercel.app" target="_blank">
