@@ -4,7 +4,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a Junior Front-End Developer
+I am an enthusiastic junior front end web developer with 1-2 years of experience developing responsive web applications. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks like React and Vue. Passionate about translating UI/UX concepts into optimized, accessible, and user-friendly websites. Eager to showcase my abilities, contribute coding skills, troubleshoot issues, and assist in launching new features and products.
  </h3>
  
  <p align="center">
